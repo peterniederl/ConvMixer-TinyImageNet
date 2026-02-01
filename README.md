@@ -1,0 +1,2 @@
+# ConvMixer-TinyImageNet
+ConvMixer for 
