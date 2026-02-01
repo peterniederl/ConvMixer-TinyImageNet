@@ -1,3 +1,6 @@
+Trained on an Mac Mini M1 (8 GB RAM):
+When trained on a MacBook Pro M2 (16 GB RAM) training time per epoch drops to 360 seconds per epoch.
+
 > [LR Scheduler] epoch 1: lr=0.000600 (warmup)
 Epoch 1/100
 2026-01-30 07:30:34.457724: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:114] Plugin optimizer for device_type GPU is enabled.
